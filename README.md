@@ -48,3 +48,8 @@ The project was completed as part of my Supply Chain Data Analytics learning jou
 - The United States accounted for approximately 91.7% of all orders.
 - The United States also represented the largest share of total quantity ordered.
 - The average order contained approximately 
+## Data Visualization
+
+### Total Quantity Ordered by Country
+
+![Total Quantity Ordered by Country](screenshots/chart.png)
