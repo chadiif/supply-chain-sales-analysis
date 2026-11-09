@@ -1,4 +1,3 @@
-# supply-chain-sales-analysis
 # Supply Chain Sales & Order Analysis
 
 ## Project Overview
